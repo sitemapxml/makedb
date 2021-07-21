@@ -1,5 +1,5 @@
 # makedb
-Simple interactive script for easier creation of mysql databases
+Easier creation of mysql databases
 > NOTE: Currently, the script supports only Ubuntu
 
 This simple script will allow you to create a mysql database by using interactive prompt. You should ensure that you know your mysql root password.
